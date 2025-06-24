@@ -1,7 +1,7 @@
 <div align="center">
   <br />
     <a href="[https://www.youtube.com/watch?v=dCLhUialKPQ](https://search.brave.com/images?q=animal+movie)" target="_blank">
-      <img src="[public/readme/hero.png](https://search.brave.com/images?q=animal+movie)" alt="Project Banner">
+      <img src="[[public/readme/hero.png](https://search.brave.com/images?q=animal+movie)](https://imgs.search.brave.com/BJobLYZj4z-fsLH57xc9v9bxMwqBeQUM468IJgax8UU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL00v/TVY1Qk9EazJOV1Zr/TURNdFpXWTNOQzAw/WXpKaUxUbGtNV0V0/Wldaa1pqWmxZMlpq/Tm1VNVhrRXlYa0Zx/Y0djQC5qcGc)" alt="Project Banner">
     </a>
   <br />
   
